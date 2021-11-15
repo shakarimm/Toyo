@@ -8,7 +8,7 @@
 
 <script>
 
-
+//Router link
 export default {
   components: {},
 };
